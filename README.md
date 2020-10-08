@@ -8,5 +8,5 @@ Basic git commands:
     git pull <- get changes from server
     git add <- add files to commit (package, box)
     git push <- send the "box" to the server
-
+FUCK THIS SHIT
 
